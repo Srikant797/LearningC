@@ -1,2 +1,3 @@
 # LearningC
-Here, I'll work on developing skills of C++ from basic to advanced.
+Here, I'll work on learning skills of C++ from basic to advanced.
+## Pull Requests are always welcome!
